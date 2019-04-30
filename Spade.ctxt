@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Spade
+comment0.text=\r\n\ This\ is\ the\ bullet\ shot\ by\ the\ MC.\r\n\ \r\n\ @Gillian\ Sanchez,\ Jonathon\ Ferguson\ \r\n\ @January\ 18,\ 2016\r\n
+comment1.params=myCharacter
+comment1.target=Spade(MC)
+comment1.text=\r\n\ Spawn\ the\ spade\ from\ the\ player.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Move\ the\ spade\ in\ the\ direction\ the\ player\ is\ facing.\r\n
+comment3.params=mode
+comment3.target=void\ setImage(int)
+comment3.text=\r\n\ Set\ the\ spade\ to\ be\ either\ facing\ up\ or\ down.\r\n
+comment4.params=mode
+comment4.target=void\ direct(int)
+comment4.text=\r\n\ Move\ the\ spade\ in\ the\ direction\ in\ accordance\ to\ the\ player's\ mode.\r\n
+comment5.params=Speed
+comment5.target=void\ travel(int)
+comment5.text=\r\n\ Move\ the\ spade\ in\ a\ direction.\r\n
+comment6.params=
+comment6.target=void\ hitVertical()
+comment6.text=\r\n\ Remove\ the\ spade\ if\ it\ hits\ either\ the\ top\ or\ bottom.\r\n
+numComments=7

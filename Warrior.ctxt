@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Warrior
+comment0.text=\r\n\ This\ is\ an\ enemy\ that\ automatically\ moves\ towards\ the\ player.\r\n\ \r\n\ @Gillian\ Sanchez,\ Jonathon\ Ferguson\ \r\n\ @January\ 18,\ 2016\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Make\ warrior\ move\ towards\ the\ player\ as\ long\ as\ the\ screen\ is\ not\ covered.\r\n
+numComments=2
