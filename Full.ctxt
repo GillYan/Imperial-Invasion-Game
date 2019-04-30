@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Full
+comment0.text=\r\n\ An\ image\ that\ fully\ covers\ the\ screen.\r\n\ \r\n\ @Gillian\ Sanchez,\ Jonathon\ Ferguson\ \r\n\ @January\ 18,\ 2016\r\n
+comment1.params=newMode
+comment1.target=Full(int)
+comment1.text=\r\n\ Initialize\ image\ that\ fully\ covers\ the\ screen.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Show\ an\ image\ that\ covers\ the\ whole\ screen.\r\n
+numComments=3
