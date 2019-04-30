@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Clown4
+comment0.text=\r\n\ Clown\ that\ goes\ to\ the\ top\ left\ corner.\r\n\ \r\n\ @Gillian\ Sanchez,\ Jonathon\ Ferguson\ \r\n\ @January\ 18,\ 2016\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Move\ clown\ from\ bottom\ right\ to\ top\ left.\r\n
+numComments=2
